@@ -100,10 +100,11 @@ I design modern, responsive, and user-centered interfaces focused on usability a
 ## 🛠 Design Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48"/>
 </p>
+
 
 
 
