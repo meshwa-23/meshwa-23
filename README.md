@@ -97,9 +97,13 @@ I design modern, responsive, and user-centered interfaces focused on usability a
   <img src="assets/ui-ux/ui-animation.gif" width="280"/>
 </p>
 
-## 🛠️ Design Tools
+## 🛠 Design Tools
 
-<img src="assets/icons/figma.png" width="60"/>
-<img src="assets/icons/canva.png" width="60"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48"/>
+</p>
+
 
 
