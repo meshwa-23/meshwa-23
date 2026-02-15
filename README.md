@@ -102,7 +102,6 @@ I design modern, responsive, and user-centered interfaces focused on usability a
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48"/>
 </p>
 
 
