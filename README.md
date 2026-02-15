@@ -81,7 +81,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 ---
-## 🎨 UI/UX Designs
+## 🎨 UI/UX Design Projects
+
+I design modern, responsive, and user-centered interfaces focused on usability and visual clarity.
+
+### 🔹 Featured Designs
+
 <p align="center">
   <img src="assets/ui-ux/burger-ui.png" width="280"/>
   &nbsp;&nbsp;
@@ -89,4 +94,16 @@
   &nbsp;&nbsp;
   <img src="assets/ui-ux/ui-animation.gif" width="280"/>
 </p>
+
+### 🧠 Design Approach
+- Clean and minimal layouts  
+- Strong visual hierarchy  
+- Consistent typography  
+- Responsive design principles  
+- User-friendly navigation  
+
+### 🛠 Tools Used
+- Figma  
+- Canva  
+
 
