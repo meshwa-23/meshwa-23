@@ -97,8 +97,9 @@ I design modern, responsive, and user-centered interfaces focused on usability a
   <img src="assets/ui-ux/ui-animation.gif" width="280"/>
 </p>
 
-### 🛠 Tools Used
-- Figma  
-- Canva  
+## 🛠️ Design Tools
+
+<img src="assets/icons/figma.png" width="60"/>
+<img src="assets/icons/canva.png" width="60"/>
 
 
