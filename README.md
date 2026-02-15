@@ -52,10 +52,7 @@
 
 ## 💡 Quote  
 “Turning data into decisions.”
-
 ---
----
-
 ## 🧩 Tech Stack (Icons)
 
 ### 💻 Backend  
@@ -83,9 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
--
+---
 ## 🎨 UI/UX Designs
-
 <p align="center">
   <img src="assets/ui-ux/burger-ui.png" width="280"/>
   &nbsp;&nbsp;
