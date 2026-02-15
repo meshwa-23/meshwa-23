@@ -80,7 +80,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
+
 ---
+
 ## 🎨 UI/UX Design Projects
 
 I design modern, responsive, and user-centered interfaces focused on usability and visual clarity.
@@ -94,13 +96,6 @@ I design modern, responsive, and user-centered interfaces focused on usability a
   &nbsp;&nbsp;
   <img src="assets/ui-ux/ui-animation.gif" width="280"/>
 </p>
-
-### 🧠 Design Approach
-- Clean and minimal layouts  
-- Strong visual hierarchy  
-- Consistent typography  
-- Responsive design principles  
-- User-friendly navigation  
 
 ### 🛠 Tools Used
 - Figma  
