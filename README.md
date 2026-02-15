@@ -88,16 +88,16 @@
 
 ### 🍔 Burger App UI
 <p align="center">
-  <img src="assets/ui-ux/burger-ui.png" width="600"/>
+  <img src="assets/ui-ux/burger-ui.png" width="250"/>
 </p>
 
 ### 🎮 Controller App UI
 <p align="center">
-  <img src="assets/ui-ux/controller-ui.png" width="600"/>
+  <img src="assets/ui-ux/controller-ui.png" width="250"/>
 </p>
 
 ### ✨ UI Animation Demo
 <p align="center">
-  <img src="assets/ui-ux/ui-animation.gif" width="600"/>
+  <img src="assets/ui-ux/ui-animation.gif" width="250"/>
 </p>
 
