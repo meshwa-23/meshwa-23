@@ -83,4 +83,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
+-
+## 🎨 UI/UX Designs
+
+### 🍔 Burger App UI
+<p align="center">
+  <img src="assets/ui-ux/burger-ui.png" width="600"/>
+</p>
+
+### 🎮 Controller App UI
+<p align="center">
+  <img src="assets/ui-ux/controller-ui.png" width="600"/>
+</p>
+
+### ✨ UI Animation Demo
+<p align="center">
+  <img src="assets/ui-ux/ui-animation.gif" width="600"/>
+</p>
 
